@@ -9,7 +9,6 @@
         ],
         "premiere_episode": "1",
         "song_title": "最上級の心",
-        "song_title_sort": "さいじょうきゅうのこころ",
         "url": {
             "recording": "https://www.youtube.com/watch?v=avPQ3HxhBnc",
             "instrumental": "",
@@ -20,40 +19,22 @@
             "artist": [
                 "大渕野々花"
             ],
-            "artist_sort": [
-                "おおぶちののか"
-            ],
             "composer": [
                 "川谷絵音"
-            ],
-            "composer_sort": [
-                "かわたにえのん"
             ],
             "arranger": [
                 "川谷絵音"
             ],
-            "arranger_sort": [
-                "かわたにえのん"
-            ],
             "lyricist": [
                 "川谷絵音"
-            ],
-            "lyricist_sort": [
-                "かわたにえのん"
             ],
             "player": {
                 "vocal": "大渕野々花",
                 "drums": "GOTO",
                 "bass": "露崎義邦"
-            },
-            "player_sort": {
-                "vocal": "おおぶちののか",
-                "drums": "GOTO",
-                "bass": "つゆざきよしくに"
             }
         },
         "anime_title": "Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士として暮らしてます",
-        "anime_title_sort": "Sらんくもんすたあのべひいもすだけどねことまちがわれてえるふむすめのぺっととしてくらしてます",
         "type": "OP",
         "reference": [
             "https://behemoth-anime.com/",
@@ -70,7 +51,6 @@
         ],
         "premiere_episode": "1",
         "song_title": "ブレイブリーダンス",
-        "song_title_sort": "ぶれいぶりいだんす",
         "url": {
             "recording": "https://www.youtube.com/watch?v=dC43a68sYh8",
             "instrumental": "https://www.youtube.com/watch?v=MEHGO1f2AB4",
@@ -82,43 +62,23 @@
                 "アーリオ・オーリオ・エ・ペペロンチーノ",
                 "雪花ラミィ"
             ],
-            "artist_sort": [
-                "あありおおおりおえぺぺろんちいの",
-                "ゆきはならみぃ"
-            ],
             "composer": [
                 "キノシタ"
-            ],
-            "composer_sort": [
-                "きのした"
             ],
             "arranger": [
                 "キノシタ"
             ],
-            "arranger_sort": [
-                "きのした"
-            ],
             "lyricist": [
                 "キノシタ"
-            ],
-            "lyricist_sort": [
-                "きのした"
             ],
             "player": {
                 "vocal_1": "アーリオ・オーリオ・エ・ペペロンチーノ",
                 "vocal_2": "雪花ラミィ",
                 "guitar": "HAGI",
                 "bass": "Keisuke Higashino"
-            },
-            "player_sort": {
-                "vocal_1": "あありおおおりおえぺぺろんちいの",
-                "vocal_2": "ゆきはならみぃ",
-                "guitar": "HAGI",
-                "bass": "Keisuke Higashino"
             }
         },
         "anime_title": "外れスキル《木の実マスター》 〜スキルの実（食べたら死ぬ）を無限に食べられるようになった件について〜",
-        "anime_title_sort": "はずれすきるきのみますたあすきるのみたべたらしぬをむげんにたべられるようになったけんについて",
         "type": "OP",
         "reference": [
             "https://kinomimaster.com/",
@@ -133,7 +93,6 @@
         ],
         "premiere_episode": "1",
         "song_title": "そんな僕らの冒険譚！",
-        "song_title_sort": "そんなぼくらのぼうけんたん",
         "url": {
             "recording": "https://www.youtube.com/watch?v=ct6rt9qiTpM",
             "instrumental": "",
@@ -144,40 +103,22 @@
             "artist": [
                 "TrySail"
             ],
-            "artist_sort": [
-                "TrySail"
-            ],
             "composer": [
-                "EFFY"
-            ],
-            "composer_sort": [
                 "EFFY"
             ],
             "arranger": [
                 "EFFY"
             ],
-            "arranger_sort": [
-                "EFFY"
-            ],
             "lyricist": [
                 "松井洋平"
-            ],
-            "lyricist_sort": [
-                "まついようへい"
             ],
             "player": {
                 "vocal_1": "麻倉もも",
                 "vocal_2": "雨宮天",
                 "vocal_3": "夏川椎菜"
-            },
-            "player_sort": {
-                "vocal_1": "あさくらもも",
-                "vocal_2": "あまみやそら",
-                "vocal_3": "なつかわしいな"
             }
         },
-        "anime_title": "外れスキル《木の実マスター》 ～スキルの実（食べたら死ぬ）を無限に食べられるようになった件について～",
-        "anime_title_sort": "はずれすきるきのみますたあすきるのみたべたらしぬをむげんにたべられるようになったけんについて",
+        "anime_title": "外れスキル《木の実マスター》 〜スキルの実（食べたら死ぬ）を無限に食べられるようになった件について〜",
         "type": "ED",
         "reference": [
             "https://kinomimaster.com/",
@@ -192,7 +133,6 @@
         ],
         "premiere_episode": "2",
         "song_title": "リミー",
-        "song_title_sort": "りみい",
         "url": {
             "recording": "https://www.youtube.com/watch?v=dexCyRe0nzQ",//Music Premium
             "instrumental": "",
@@ -203,38 +143,21 @@
             "artist": [
                 "ぽかぽかイオン"
             ],
-            "artist_sort": [
-                "ぽかぽかいおん"
-            ],
             "composer": [
                 "白戸佑輔"
-            ],
-            "composer_sort": [
-                "しらとゆうすけ"
             ],
             "arranger": [
                 "白戸佑輔"
             ],
-            "arranger_sort": [
-                "しらとゆうすけ"
-            ],
             "lyricist": [
                 "白戸佑輔"
-            ],
-            "lyricist_sort": [
-                "しらとゆうすけ"
             ],
             "player": {
                 "vocal_1": "東山奈央",
                 "vocal_2": "安野希世乃"
-            },
-            "player_sort": {
-                "vocal_1": "とうやまなお",
-                "vocal_2": "やすのきよの"
             }
         },
         "anime_title": "Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士として暮らしてます",
-        "anime_title_sort": "Sらんくもんすたあのべひいもすだけどねことまちがわれてえるふむすめのぺっととしてくらしてます",
         "type": "ED",
         "reference": [
             "https://behemoth-anime.com/",
@@ -249,7 +172,6 @@
         ],
         "premiere_episode": "1",
         "song_title": "L’oN",
-        "song_title_sort": "L'oN",
         "url": {
             "recording": "https://www.youtube.com/watch?v=bzfyQuhWmKE",
             "instrumental": "",
@@ -260,27 +182,14 @@
             "artist": [
                 "オーイシマサヨシ"
             ],
-            "artist_sort": [
-                "おおいしまさよし"
-            ],
             "composer": [
-                "ANCHOR"
-            ],
-            "composer_sort": [
                 "ANCHOR"
             ],
             "arranger": [
                 "ANCHOR",
                 "ZiNG"
             ],
-            "arranger_sort": [
-                "ANCHOR",
-                "ZiNG"
-            ],
             "lyricist": [
-                "ANCHOR"
-            ],
-            "lyricist_sort": [
                 "ANCHOR"
             ],
             "player": {
@@ -288,16 +197,9 @@
                 "bass": "Nob",
                 "guitar": "滝善充",
                 "other": "ANCHOR"
-            },
-            "player_sort": {
-                "drums": "ぴええるなかの",
-                "bass": "Nob",
-                "guitar": "たきよしみつ",
-                "other": "ANCHOR"
             }
         },
         "anime_title": "地縛少年花子くん2",
-        "anime_title_sort": "じばくしょうねんはなこくん2",
         "type": "OP",
         "reference": [
             "https://hanakokun.com/2nd/",
@@ -312,7 +214,6 @@
     //     ],
     //     "premiere_episode": "",
     //     "song_title": "",
-    //     "song_title_sort": "",
     //     "url": {
     //         "recording": "",
     //         "instrumental": "",
@@ -323,36 +224,20 @@
     //         "artist": [
     //             ""
     //         ],
-    //         "artist_sort": [
-    //             ""
-    //         ],
     //         "composer": [
-    //             ""
-    //         ],
-    //         "composer_sort": [
     //             ""
     //         ],
     //         "arranger": [
     //             ""
     //         ],
-    //         "arranger_sort": [
-    //             ""
-    //         ],
     //         "lyricist": [
-    //             ""
-    //         ],
-    //         "lyricist_sort": [
     //             ""
     //         ],
     //         "player": {
     //             "": ""
-    //         },
-    //         "player_sort": {
-    //             "": ""
     //         }
     //     },
     //     "anime_title": "",
-    //     "anime_title_sort": "",
     //     "type": "",
     //     "reference": [
     //         ""
