@@ -1,0 +1,485 @@
+{
+    "然らば": {
+        "last_edit": "2025-02-20",
+        "premiere": "2025-01-03 00:55",
+        "premiere_broadcaster": [
+            "TBS系列"
+        ],
+        "premiere_episode": "13",
+        "song_title": "然らば",
+        "song_title_sort": "さらば",
+        "url": {
+            "recording": "https://music.youtube.com/watch?v=AsVxRkqNbsw",
+            "needs_YTP": false,
+            "reprod": null,
+            "instrumental": null,
+            "music_video": "https://www.youtube.com/watch?v=s2wApOpofXQ",
+            "OPED_movie": "https://www.youtube.com/watch?v=jj7DnKGG148"
+        },
+        "people": {
+            "artist": [
+                {
+                    "name": "マカロニえんぴつ",
+                    "name_sort": "まかろにえんぴつ"
+                }
+            ],
+            "composer": [
+                {
+                    "name": "はっとり",
+                    "name_sort": "はっとり"
+                }
+            ],
+            "arranger": [
+                {
+                    "name": "マカロニえんぴつ",
+                    "name_sort": "まかろにえんぴつ"
+                }
+            ],
+            "lyricist": [
+                {
+                    "name": "はっとり",
+                    "name_sort": "はっとり"
+                }
+            ],
+            "player": [
+                {
+                    "name": "高野賢也",
+                    "name_sort": "たかのけんや",
+                    "instrument": "bass"
+                },
+                {
+                    "name": "はっとり",
+                    "name_sort": "はっとり",
+                    "instrument": "guitar"
+                },
+                {
+                    "name": "田辺由明",
+                    "name_sort": "たなべよしあき",
+                    "instrument": "guitar_2"
+                },
+                {
+                    "name": "長谷川大喜",
+                    "name_sort": "はせがわだいき",
+                    "instrument": "keyboard"
+                },
+                {
+                    "name": "はっとり",
+                    "name_sort": "はっとり",
+                    "instrument": "vocal"
+                }
+            ]
+        },
+        "anime_title": "アオのハコ",
+        "anime_title_sort": "あおのはこ",
+        "type": "OP",
+        "reference": [
+            "https://cal.syoboi.jp/tid/7201/",
+            "https://aonohako-anime.com/",
+            "https://w.wiki/3zvJ"
+        ]
+    },
+    "コントラスト": {
+        "last_edit": "2025-02-20",
+        "premiere": "2025-01-03 00:55",
+        "premiere_broadcaster": [
+            "TBS系列"
+        ],
+        "premiere_episode": "13",
+        "song_title": "コントラスト",
+        "song_title_sort": "こんとらすと",
+        "url": {
+            "recording": "https://music.youtube.com/watch?v=v9Y79jXKMkk",
+            "needs_YTP": false,
+            "reprod": null,
+            "instrumental": null,
+            "music_video": "https://www.youtube.com/watch?v=VXznHhTClPM",
+            "OPED_movie": "https://www.youtube.com/watch?v=pAjs2GWEZvI"
+        },
+        "people": {
+            "artist": [
+                {
+                    "name": "TOMOO",
+                    "name_sort": "TOMOO"
+                }
+            ],
+            "composer": [
+                {
+                    "name": "TOMOO",
+                    "name_sort": "TOMOO"
+                }
+            ],
+            "arranger": [
+                {
+                    "name": "TOMOO",
+                    "name_sort": "TOMOO"
+                },
+                {
+                    "name": "江口亮",
+                    "name_sort": "えぐちりょう"
+                }
+            ],
+            "lyricist": [
+                {
+                    "name": "TOMOO",
+                    "name_sort": "TOMOO"
+                }
+            ],
+            "player": [
+                {
+                    "name": "TOMOO",
+                    "name_sort": "TOMOO",
+                    "instrument": "vocal"
+                },
+                {
+                    "name": "設楽博臣",
+                    "name_sort": "したらひろおみ",
+                    "instrument": "guitar"
+                },
+                {
+                    "name": "堀沢真己",
+                    "name_sort": "ほりさわまさみ",
+                    "instrument": "cello"
+                },
+                {
+                    "name": "御供信弘",
+                    "name_sort": "みとものぶひろ",
+                    "instrument": "bass"
+                },
+                {
+                    "name": "TOMOO",
+                    "name_sort": "TOMOO",
+                    "instrument": "piano"
+                },
+                {
+                    "name": "城戸紘志",
+                    "name_sort": "きどひろし",
+                    "instrument": "drums"
+                }
+            ]
+        },
+        "anime_title": "アオのハコ",
+        "anime_title_sort": "あおのはこ",
+        "type": "ED",
+        "reference": [
+            "https://cal.syoboi.jp/tid/7201/",
+            "https://aonohako-anime.com/"
+        ]
+    },
+    "痛覚": {
+        "last_edit": "2025-02-20",
+        "premiere": "2025-01-05 00:30",
+        "premiere_broadcaster": [
+            "TOKYO MX",
+            "BS11",
+            "群馬テレビ",
+            "とちぎテレビ"
+        ],
+        "premiere_episode": "1",
+        "song_title": "痛覚",
+        "song_title_sort": "つうかく",
+        "url": {
+            "recording": "https://music.youtube.com/watch?v=AYf_l89VE8o",
+            "needs_YTP": false,
+            "reprod": null,
+            "instrumental": "https://music.youtube.com/watch?v=bj4z-sAS2n4",
+            "music_video": "https://www.youtube.com/watch?v=enG720dM4kA",
+            "OPED_movie": "https://www.youtube.com/watch?v=vuhGe1FEot4"
+        },
+        "people": {
+            "artist": [
+                {
+                    "name": "amazarashi",
+                    "name_sort": "amazarashi"
+                }
+            ],
+            "composer": [
+                {
+                    "name": "秋田ひろむ",
+                    "name_sort": "あきたひろむ"
+                }
+            ],
+            "arranger": [
+                {
+                    "name": "出羽良彰",
+                    "name_sort": "でわよしあき"
+                }
+            ],
+            "lyricist": [
+                {
+                    "name": "秋田ひろむ",
+                    "name_sort": "あきたひろむ"
+                }
+            ],
+            "player": [
+                {
+                    "name": "秋田ひろむ",
+                    "name_sort": "あきたひろむ",
+                    "instrument": "vocal"
+                }
+            ]
+        },
+        "anime_title": "青の祓魔師 終夜篇",
+        "anime_title_sort": "あおのえくそしすとよすがへん",
+        "type": "OP",
+        "reference": [
+            "https://cal.syoboi.jp/tid/7334/",
+            "https://www.ao-ex.com/"
+        ]
+    },
+    "オーバーラップ": {
+        "last_edit": "2025-02-20",
+        "premiere": "2025-01-05 00:30",
+        "premiere_broadcaster": [
+            "TOKYO MX",
+            "BS11",
+            "群馬テレビ",
+            "とちぎテレビ"
+        ],
+        "premiere_episode": "1",
+        "song_title": "オーバーラップ",
+        "song_title_sort": "おーばーらっぷ",
+        "url": {
+            "recording": "https://music.youtube.com/watch?v=BSJ-019h2oo",
+            "needs_YTP": false,
+            "reprod": null,
+            "instrumental": null,
+            "music_video": "https://www.youtube.com/watch?v=DBUwsZlvzVM",
+            "OPED_movie": "https://www.youtube.com/watch?v=eNcS0S61X4A"
+        },
+        "people": {
+            "artist": [
+                {
+                    "name": "シユイ",
+                    "name_sort": "しゆい"
+                }
+            ],
+            "composer": [
+                {
+                    "name": "雪乃イト",
+                    "name_sort": "ゆきのいと"
+                }
+            ],
+            "arranger": [
+                {
+                    "name": "雪乃イト",
+                    "name_sort": "ゆきのいと"
+                }
+            ],
+            "lyricist": [
+                {
+                    "name": "出口遼",
+                    "name_sort": "でぐちりょう"
+                }
+            ],
+            "player": [
+                {
+                    "name": "シユイ",
+                    "name_sort": "しゆい",
+                    "instrument": "vocal"
+                },
+                {
+                    "name": "C'Na",
+                    "name_sort": "C'Na",
+                    "instrument": "guitar"
+                },
+                {
+                    "name": "出口遼",
+                    "name_sort": "でぐちりょう",
+                    "instrument": "bass"
+                },
+                {
+                    "name": "さいだるい",
+                    "name_sort": "さいだるい",
+                    "instrument": "piano"
+                },
+                {
+                    "name": "清水遼大",
+                    "name_sort": "しみずりょうだい",
+                    "instrument": "drums"
+                },
+                {
+                    "name": "雪乃イト",
+                    "name_sort": "ゆきのいと",
+                    "instrument": "other"
+                }
+            ]
+        },
+        "anime_title": "青の祓魔師 終夜篇",
+        "anime_title_sort": "あおのえくそしすとよすがへん",
+        "type": "ED",
+        "reference": [
+            "https://cal.syoboi.jp/tid/7334/",
+            "https://www.ao-ex.com/"
+        ]
+    },
+    "OOKAMI": {
+        "last_edit": "2025-02-20",
+        "premiere": "2025-01-11 17:30",
+        "premiere_broadcaster": [
+            "日本テレビ系列"
+        ],
+        "premiere_episode": "13",
+        "song_title": "OOKAMI",
+        "song_title_sort": "OOKAMI",
+        "url": {
+            "recording": "https://music.youtube.com/watch?v=z9o-4wnNxEA",
+            "needs_YTP": false,
+            "reprod": null,
+            "instrumental": "https://music.youtube.com/watch?v=juKVwpGiSr4",
+            "music_video": "https://www.youtube.com/watch?v=InzQPWaWtJY",
+            "OPED_movie": "https://www.youtube.com/watch?v=VvwpkhTxPcU"
+        },
+        "people": {
+            "artist": [
+                {
+                    "name": "梅田サイファー",
+                    "name_sort": "うめださいふぁー"
+                }
+            ],
+            "composer": [
+                {
+                    "name": "banvox",
+                    "name_sort": "banvox"
+                }
+            ],
+            "arranger": [
+                {
+                    "name": null,
+                    "name_sort": null
+                }
+            ],
+            "lyricist": [
+                {
+                    "name": "梅田サイファー",
+                    "name_sort": "うめださいふぁー"
+                }
+            ],
+            "player": [
+                {
+                    "name": "テークエム",
+                    "name_sort": "てーくえむ",
+                    "instrument": "vocal"
+                },
+                {
+                    "name": "KennyDoes",
+                    "name_sort": "KennyDoes",
+                    "instrument": "vocal_2"
+                },
+                {
+                    "name": "KBD",
+                    "name_sort": "KBD",
+                    "instrument": "vocal_3"
+                },
+                {
+                    "name": "Cosaqu",
+                    "name_sort": "Cosaqu",
+                    "instrument": "vocal_4"
+                },
+                {
+                    "name": "peko",
+                    "name_sort": "peko",
+                    "instrument": "vocal_5"
+                },
+                {
+                    "name": "コーラ",
+                    "name_sort": "コーラ",
+                    "instrument": "vocal_6"
+                },
+                {
+                    "name": "KOPERU",
+                    "name_sort": "KOPERU",
+                    "instrument": "vocal_7"
+                },
+                {
+                    "name": "teppei",
+                    "name_sort": "teppei",
+                    "instrument": "vocal_8"
+                }
+            ]
+        },
+        "anime_title": "青のミブロ",
+        "anime_title_sort": "あおのみぶろ",
+        "type": "OP",
+        "reference": [
+            "https://cal.syoboi.jp/tid/7259/",
+            "https://miburoanime.com/"
+        ]
+    },
+    "フラグメント": {
+        "last_edit": "2025-02-20",
+        "premiere": "2025-01-11 17:30",
+        "premiere_broadcaster": [
+            "日本テレビ系列"
+        ],
+        "premiere_episode": "13",
+        "song_title": "フラグメント",
+        "song_title_sort": "ふらぐめんと",
+        "url": {
+            "recording": "https://music.youtube.com/watch?v=EUpIDaqWTk8",
+            "needs_YTP": false,
+            "reprod": null,
+            "instrumental": null,
+            "music_video": "https://www.youtube.com/watch?v=i2Cd6epgX4M",
+            "OPED_movie": "https://www.youtube.com/watch?v=4IlGeM-Vd6c"
+        },
+        "people": {
+            "artist": [
+                {
+                    "name": "osage",
+                    "name_sort": "osage"
+                }
+            ],
+            "composer": [
+                {
+                    "name": "山口ケンタ",
+                    "name_sort": "やまぐちげんた"
+                }
+            ],
+            "arranger": [
+                {
+                    "name": "osage",
+                    "name_sort": "osage"
+                },
+                {
+                    "name": "須藤優",
+                    "name_sort": "すとうゆう"
+                }
+            ],
+            "lyricist": [
+                {
+                    "name": "山口ケンタ",
+                    "name_sort": "やまぐちげんた"
+                }
+            ],
+            "player": [
+                {
+                    "name": "山口ケンタ",
+                    "name_sort": "やまぐちげんた",
+                    "instrument": "vocal"
+                },
+                {
+                    "name": "金廣洸輝",
+                    "name_sort": "かねひろこうき",
+                    "instrument": "guitar"
+                },
+                {
+                    "name": "ヒロクサマ",
+                    "name_sort": "ひろくさま",
+                    "instrument": "bass"
+                },
+                {
+                    "name": "田中優希",
+                    "name_sort": "たなかゆうき",
+                    "instrument": "drums"
+                }
+            ]
+        },
+        "anime_title": "青のミブロ",
+        "anime_title_sort": "あおのみぶろ",
+        "type": "ED",
+        "reference": [
+            "https://cal.syoboi.jp/tid/7259/",
+            "https://miburoanime.com/"
+        ]
+    }
+}
