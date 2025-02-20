@@ -1,0 +1,82 @@
+{
+    "song": {
+        "prefix": "@song",
+        "body": [
+            "\"$0\": {",
+            "    \"last_edit\": \"2025-xx-xx\",",
+            "    \"premiere\": \"2025-xx-xx xx:xx\",",
+            "    \"premiere_broadcaster\": [",
+            "        \"\"",
+            "    ],",
+            "    \"premiere_episode\": \"\",",
+            "    \"song_title\": \"\",",
+            "    \"song_title_sort\": \"\",",
+            "    \"url\": {",
+            "        \"recording\": \"\",",
+            "        \"needs_YTP\": null,",
+            "        \"reprod\": \"\",",
+            "        \"instrumental\": \"\",",
+            "        \"music_video\": \"\",",
+            "        \"OPED_movie\": \"\"",
+            "    },",
+            "    \"people\": {",
+            "        \"artist\": [",
+            "            {",
+            "                \"name\": \"\",",
+            "                \"name_sort\": \"\"",
+            "            }",
+            "        ],",
+            "        \"composer\": [",
+            "            {",
+            "                \"name\": \"\",",
+            "                \"name_sort\": \"\"",
+            "            }",
+            "        ],",
+            "        \"arranger\": [",
+            "            {",
+            "                \"name\": \"\",",
+            "                \"name_sort\": \"\"",
+            "            }",
+            "        ],",
+            "        \"lyricist\": [",
+            "            {",
+            "                \"name\": \"\",",
+            "                \"name_sort\": \"\"",
+            "            }",
+            "        ],",
+            "        \"player\": [",
+            "            {",
+            "                \"name\": \"\",",
+            "                \"name_sort\": \"\",",
+            "                \"instrument\": \"\"",
+            "            }",
+            "        ]",
+            "    },",
+            "    \"anime_title\": \"\",",
+            "    \"anime_title_sort\": \"\",",
+            "    \"type\": \"\",",
+            "    \"reference\": [",
+            "        \"\"",
+            "    ]",
+            "}"
+        ],
+        "description": "song"
+    },
+    "check": {
+        "prefix": "@check",
+        "body": [
+            "\"$1\": {\"title\": \"$1\"},"
+        ],
+        "description": "check"
+    },
+    "player": {
+        "prefix": "@player",
+        "body": [
+            "{",
+            "   \"name\": \"$0\",",
+            "    \"name_sort\": \"\",",
+            "    \"instrument\": \"\"",
+            "}"
+        ]
+    }
+}
