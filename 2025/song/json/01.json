@@ -43,6 +43,11 @@
             ],
             "player": [
                 {
+                    "name": "はっとり",
+                    "name_sort": "はっとり",
+                    "instrument": "vocal"
+                },
+                {
                     "name": "高野賢也",
                     "name_sort": "たかのけんや",
                     "instrument": "bass"
@@ -61,11 +66,6 @@
                     "name": "長谷川大喜",
                     "name_sort": "はせがわだいき",
                     "instrument": "keyboard"
-                },
-                {
-                    "name": "はっとり",
-                    "name_sort": "はっとり",
-                    "instrument": "vocal"
                 }
             ]
         },
