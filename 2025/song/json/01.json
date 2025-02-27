@@ -481,5 +481,91 @@
             "https://cal.syoboi.jp/tid/7259/",
             "https://miburoanime.com/"
         ]
+    },
+    "あしたはきっとワンダフル": {
+        "last_edit": "2025-02-27",
+        "premiere": "2025-02-22 07:00",
+        "premiere_broadcaster": [
+            "NHK Eテレ"
+        ],
+        "premiere_episode": "112",
+        "song_title": "あしたはきっとワンダフル",
+        "song_title_sort": "あしたはきっとわんだふる",
+        "url": {
+            "recording": null,
+            "needs_YTP": null,
+            "reprod": null,
+            "instrumental": null,
+            "music_video": null,
+            "OPED_movie": null
+        },
+        "people": {
+            "artist": [
+                {
+                    "name": "岡宏明",
+                    "name_sort": "おかひろあき"
+                },
+                {
+                    "name": "斉藤柚奈",
+                    "name_sort": "さいとうゆな"
+                },
+                {
+                    "name": "藤本風悟",
+                    "name_sort": "ふじもとふうご"
+                },
+                {
+                    "name": "石塚七菜子",
+                    "name_sort": "いしづかななこ"
+                }
+            ],
+            "composer": [
+                {
+                    "name": "原口沙輔",
+                    "name_sort": "はらぐちさすけ"
+                }
+            ],
+            "arranger": [
+                {
+                    "name": null,
+                    "name_sort": null
+                }
+            ],
+            "lyricist": [
+                {
+                    "name": "竹村武司",
+                    "name_sort": "たけむらたけし"
+                }
+            ],
+            "player": [
+                {
+                    "name": "岡宏明",
+                    "name_sort": "おかひろあき",
+                    "instrument": "vocal"
+                },
+                {
+                    "name": "斉藤柚奈",
+                    "name_sort": "さいとうゆな",
+                    "instrument": "vocal_2"
+                },
+                {
+                    "name": "藤本風悟",
+                    "name_sort": "ふじもとふうご",
+                    "instrument": "vocal_3"
+                },
+                {
+                    "name": "石塚七菜子",
+                    "name_sort": "いしづかななこ",
+                    "instrument": "vocal_4"
+                }
+            ]
+        },
+        "anime_title": "ゴー！ゴー！キッチン戦隊クックルン",
+        "anime_title_sort": "ごーごーきっちんせんたいくっくるん",
+        "type": "ED",
+        "reference": [
+            "https://cal.syoboi.jp/tid/3732",
+            "https://www.nhk.jp/p/cookrn/ts/1YMMXM22K2/",
+            "https://w.wiki/DDnY"
+        ]
     }
 }
