@@ -65,15 +65,24 @@
     "check": {
         "prefix": "@check",
         "body": [
-            "\"$1\": {\"title\": \"$1\"},"
+            "\"$1\": {\"title\": \"$1\"},$0"
         ],
         "description": "check"
+    },
+    "anime": {
+        "prefix": "@anime",
+        "body": [
+            "\"$1\": {",
+            "    \"last_edit\": \"2025-$0\",",
+            "    \"anime_title\": \"$1\"",
+            "},"
+        ]
     },
     "player": {
         "prefix": "@player",
         "body": [
             "{",
-            "   \"name\": \"$0\",",
+            "    \"name\": \"$0\",",
             "    \"name_sort\": \"\",",
             "    \"instrument\": \"\"",
             "}"
